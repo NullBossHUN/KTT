@@ -1,0 +1,28 @@
+táp 
+													Állatok táplálkozása
+I. Bevezetés:
+	1. Heterotróf táplálkozásúak
+	2. Táplálék fontossága:
+		energiaforrás
+		testfelépítés
+
+II. Táplálkozás folyamata:
+	1. 4 fő lépése:
+		táplálék felvétele
+		emésztés
+		felszívás (hasznos tápanyagok)
+		kiürítés (salakanyag)
+	2. Táplálékfelvétel alapján 3 csoportja van az állatoknak:
+			\											\												\
+		NÖVÉNYEVŐK									HÚSEVŐK											MINDENEVŐK
+			minen nap táplálkoznak					kb. hetente egyszer táplálkoznak				növényi és állati eredetű táplálékot is fogyasztanak
+					|										|												|
+			kevésbé energiadús a növényi tápanyag	energiadúsabb táplálék							legjobb energia szempontjából
+			tápcsatorna hosszú						tápcsatorna rövid								
+					|								hátrány a ragadozó életmódnak: küzdelem			
+			nehéz bontani a cellulózt																
+			
+			fűevő																					ember
+			faevő																					disznófélék
+			nektárevő
+			termésevő

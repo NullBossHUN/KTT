@@ -1,0 +1,24 @@
+
+
+				Állatok szaporodása
+
+I. Bevezetés
+	1. Szaporodás: A fajfenntantás életjelensége, melynek eredményeképpen az állatok önmagukhoz hasonló utódo(ka)t hoznak létre
+	2. Típusai:
+		|					|
+		Ivartalan			Ivaros
+		a szülő 1 db sejtjéből vag sejtcsoportjából fejlődik az utód
+		pl. szivacsok
+			bimbózásssal
+		csalánozók
+			gyöngysarjképzés
+							
+							két különböző ivarsejt kell az utód kialakulásához
+							váltivarúság: a fejlettebb állatoknál két külöbböző nemű egyed termeli a két ivarsejtet
+							ivari kétalakúság: a hím és a nőstény egyed (külső) felépítésükben eltér
+	3. Szaporodással kapcsolatos fogalmak:
+		1. megtermékenyítés: az ivarsejtek egyesülési folyamata ->> zigóta
+		2. belső megtermékenyítés: az anya testén belül történik
+			pl. puhatestűek, ízeltlábúak, hüllők, madarak, emlősök
+		3. külső megtermékenyítés: az anya testén kívül történik (vízben)
+			halak, kétéltűek, szivacsok, csalánozók

@@ -1,0 +1,31 @@
+
+																Állatok anyagszállítása
+	
+	I. Bevezetés
+		1. Anyagszállítás: a sejtek anyagcserefolyamtainak elengedhetetlen feltétele,
+hogy az O2 és a tápanyagok eljussanak a sejtekhez ->> onnan pedig a co2 és a bomlástermékek a leadás helyére kerüljenek.
+		2. Egyszerű felépítésű állatoknál ->> NINCS önálló anyagszállítás.
+			- szivacsok: vándorsejtekkel
+			- csalánozók: űrbél (elágazó)
+			- férgek: bélrendszer (elágazó)
+	II. Keringési rendszer
+		1. Nyitott keringési rendszer:
+			fogalma: Az erek folytonossága megszakad
+			a testfolyadék a szervek közötti térbe jut
+			vérnyirok: a sejtekkel érintkező folyadék neve
+				puhatesűek
+				ízeltlábúak
+			össz: a fejletteb állatoknál önálló anyagszállító rendszer alakul ki
+			részei:
+				központ: szív
+				erek >> benne vér
+		2. Zárt keringési rendszer:
+			fogalma: az erek folytonossága NEM szakad meg
+			a keringés útja:
+				ütőerek (verőerek, artériák) { legvastagabb értípus, O2-t szállít } elágazik>
+				hajszálerek (kapillárisok) { anyagcsere helye }  <
+				gyűjtőerek (vénák) { vékonyabb }
+			a vér piros színét a HEMOGLOBIN adja
+				fehérjemolekula, vasközpontú, képes anyagok megkötésére
+				vörösvértesthez kapcsolódik
+			pl: gyűrűsférgek, geincesek

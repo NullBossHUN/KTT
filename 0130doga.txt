@@ -1,0 +1,63 @@
+﻿
+
+			Kérdések
+fogalmak:
+	heterotróf				szerves anyagból szerveset készít
+	táplálkozás				táplálék felvétele, emésztés, felszívódás, salakanyagok leadása
+	emésztés				a felvett szerves anyagok átalakulnak, emésztőenzimek hatására szétesnek alkotóelemeikre
+	felszívódás				a hasznosítható anyagok felszívása a középbélben
+	reszelőnyelv			táplálék aprító készülék a puhatestűeknek
+	csapónyelv				békák ragadós végű nyelve
+	kloáka					emésztőrendszer, kiválasztó- és ivarszervek testnyílása. kétéltűek, hüllők, madarak
+	légzés külső/belső		az állatok lebontó anyagcseréjéhez szükséges gázcsere (életjelenség) O2 felvétel, CO2 leadás;
+							külső légzés a kültakarón keresztül,	levegő és vér közötti gázcsere
+							belső légzés a belső légzőszervekkel	sejtek és vér közötti gázcsere
+	kopoltyú				vízi állatok nagy részének légzőszerve, nagy felületű fonalas vagy lemezes szervek belsejükben sűrű érhálózattal
+	légcsőrendszer			a rovarok légzőszerve
+	tüdő					a gerincesek légzőszerveinek egyik legfontosabb része
+	léghólyagocska			A hörgőcskék végén találhatóak, szőlőfürtszerűen helyezkednek el. Falukat erek hálózzák körül. Itt történik a gázcsere.
+	légzsák!				a madarak tüdjéhez kapcsolódik, levegőt tárolnak és csökkentik a test sűrűségét
+	kettős légzés!			madarak tüdejében belégzéskor és kilégzéskor is történik gázcsere (légzsákok miatt)
+	anyagszállítás			O2 és tápanyagok sejtekhez, CO2 és bomlástermékek leadás helyére juttatása
+	nyitott keringés		Az erek folytonossága megszakad a testfolyadék a szervek közötti térbe jut
+	zárt keringés			az erek folytonossága nem szakad meg
+	hemoglobin!				fehérjemolekula, vasközpontú, képes anyagok megkötésére
+
+állatok csoportosítása
+	táplálékfelvétel szerint: Növényevők, húsevők, mindenevők
+
+hasonlítsd össze a lapos- és a gyűrűsférgek emésztőrendszerét
+	Laposférgek: egynyílású és kétszakaszos bélrendszer! ---> sejten kívüli emésztés ---> bél üregeiben zajlik!
+	Gyűrűsférgek: kétnyílású és háromszakaszos bélrendszer! ---> sejten kívüli emésztés ---> bél üregeiben zajlik!
+
+gerinces bélcsatorna tagozódása feladatokkal
+	Előbél: szájüreg ---> nyelőcső ---> gyomor (egyszerű: egyrétegű / összetett 4 üregű ---> kérődzők)
+	Középbél: vékonybél (itt fejeződik be az emésztés, és a vékonybél nagyfelületű falán zajlik a felszívódás)
+	Utóbél: végbélnyílás (emlősök) / kloáka (nem csak bélsár távozik, hanem ide nyílik az ivarszervek kivezető csöve is. kétéltűek, hüllők, madarak) ---> itt távozik a bélsár és visszaszívódik a benne lévő víz!
+
+mivel lélegeznek az alábbi állatok:
+	rovarok			légcsőrendszer
+	kétéltűek		tüdő, bőrlégzés
+	hüllők			tüdő
+	halak			kopoltyú
+	emlősök			tüdő
+
+vér felépítése (alakos elemek, vérplazma)
+	alakos elemek:
+		vörösvérsejt 45%
+		fehérvérsejt
+		vérlemezke
+	vérplazma:
+		víz 90%
+		fehérjék
+		véralvadási faktorok
+		komplement anyagok
+		cukor
+		bilirubin
+		ásványi anyagok
+		hormonok
+		maradéknitrogén
+
+kis vérkör, nagy vérkör összehasonlítása
+	nagy vérkör: bal kamra > sejtek > jobb pitvar
+	kis vérkör: jobb kamra > tüdő > bal pitvar
