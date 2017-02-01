@@ -10,8 +10,8 @@ fogalmak:
 	csapónyelv				békák ragadós végű nyelve
 	kloáka					emésztőrendszer, kiválasztó- és ivarszervek testnyílása. kétéltűek, hüllők, madarak
 	légzés külső/belső		az állatok lebontó anyagcseréjéhez szükséges gázcsere (életjelenség) O2 felvétel, CO2 leadás;
-							külső légzés a kültakarón keresztül,	levegő és vér közötti gázcsere
-							belső légzés a belső légzőszervekkel	sejtek és vér közötti gázcsere
+							levegő és vér közötti gázcsere
+							sejtek és vér közötti gázcsere
 	kopoltyú				vízi állatok nagy részének légzőszerve, nagy felületű fonalas vagy lemezes szervek belsejükben sűrű érhálózattal
 	légcsőrendszer			a rovarok légzőszerve
 	tüdő					a gerincesek légzőszerveinek egyik legfontosabb része
@@ -33,7 +33,7 @@ hasonlítsd össze a lapos- és a gyűrűsférgek emésztőrendszerét
 gerinces bélcsatorna tagozódása feladatokkal
 	Előbél: szájüreg ---> nyelőcső ---> gyomor (egyszerű: egyrétegű / összetett 4 üregű ---> kérődzők)
 	Középbél: vékonybél (itt fejeződik be az emésztés, és a vékonybél nagyfelületű falán zajlik a felszívódás)
-	Utóbél: végbélnyílás (emlősök) / kloáka (nem csak bélsár távozik, hanem ide nyílik az ivarszervek kivezető csöve is. kétéltűek, hüllők, madarak) ---> itt távozik a bélsár és visszaszívódik a benne lévő víz!
+	Utóbél: végbélnyílás (emlősök) / kloáka (kétéltűek, hüllők, madarak) ---> itt távozik a bélsár és visszaszívódik a benne lévő víz!
 
 mivel lélegeznek az alábbi állatok:
 	rovarok			légcsőrendszer
