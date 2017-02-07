@@ -2,38 +2,53 @@
 
 			Kérdések
 fogalmak:
-	heterotróf				szerves anyagból szerveset készít
+	heterotróf!!			anyagcserefolyamat, szerves anyagból szerveset készít
 	táplálkozás				táplálék felvétele, emésztés, felszívódás, salakanyagok leadása
 	emésztés				a felvett szerves anyagok átalakulnak, emésztőenzimek hatására szétesnek alkotóelemeikre
 	felszívódás				a hasznosítható anyagok felszívása a középbélben
 	reszelőnyelv			táplálék aprító készülék a puhatestűeknek
 	csapónyelv				békák ragadós végű nyelve
-	kloáka					emésztőrendszer, kiválasztó- és ivarszervek testnyílása. kétéltűek, hüllők, madarak
+	kloáka!!				emésztőrendszer, kiválasztó- és ivarszervek testnyílása. kétéltűek, hüllők, madarak
 	légzés külső/belső		az állatok lebontó anyagcseréjéhez szükséges gázcsere (életjelenség) O2 felvétel, CO2 leadás;
 							levegő és vér közötti gázcsere
 							sejtek és vér közötti gázcsere
 	kopoltyú				vízi állatok nagy részének légzőszerve, nagy felületű fonalas vagy lemezes szervek belsejükben sűrű érhálózattal
 	légcsőrendszer			a rovarok légzőszerve
 	tüdő					a gerincesek légzőszerveinek egyik legfontosabb része
-	léghólyagocska			A hörgőcskék végén találhatóak, szőlőfürtszerűen helyezkednek el. Falukat erek hálózzák körül. Itt történik a gázcsere.
-	légzsák!				a madarak tüdjéhez kapcsolódik, levegőt tárolnak és csökkentik a test sűrűségét
+	léghólyagocska!!		A hörgőcskék végén találhatóak, szőlőfürtszerűen helyezkednek el. Falukat erek hálózzák körül. Itt történik a gázcsere.
+	légzsák!!				a madarak tüdejéhez kapcsolódik, levegőt tárolnak és csökkentik a test sűrűségét
 	kettős légzés!			madarak tüdejében belégzéskor és kilégzéskor is történik gázcsere (légzsákok miatt)
 	anyagszállítás			O2 és tápanyagok sejtekhez, CO2 és bomlástermékek leadás helyére juttatása
 	nyitott keringés		Az erek folytonossága megszakad a testfolyadék a szervek közötti térbe jut
 	zárt keringés			az erek folytonossága nem szakad meg
-	hemoglobin!				fehérjemolekula, vasközpontú, képes anyagok megkötésére
+	hemoglobin!!			fehérjemolekula, vasközpontú, képes anyagok megkötésére
 
-állatok csoportosítása
-	táplálékfelvétel szerint: Növényevők, húsevők, mindenevők
+állatok csoportosítása táplálékfelvétel szerint 	benne
+	növényevők
+		minden nap táplálkoznak, kevésbé energiadús, hosszú tápcsatorna
+		fűevő	marha
+		faevő	termesz
+		magevő	galamb
+		nektárevő	kolibri
+		termésevő	papagáj
+	húsevők
+		kb.: hetente egyszer táplálkoznak, energiadúsabb táplálék,rövid tápcsatorna
+		ragadozó	oroszlán
+		dögevő	hiéna
+		rovarevő	kaméleon
+	mindenevők
+		növényi és állati táplálékot fogyasztanak, legjobb energia szempontjából
+		ember
+		disznófélék
 
-hasonlítsd össze a lapos- és a gyűrűsférgek emésztőrendszerét
-	Laposférgek: egynyílású és kétszakaszos bélrendszer! ---> sejten kívüli emésztés ---> bél üregeiben zajlik!
-	Gyűrűsférgek: kétnyílású és háromszakaszos bélrendszer! ---> sejten kívüli emésztés ---> bél üregeiben zajlik!
+hasonlítsd össze a lapos- és a gyűrűsférgek emésztőrendszerét	benne
+	Laposférgek: egynyílású, kétszakaszos bélrendszer
+	Gyűrűsférgek: kétnyílású, háromszakaszos bélrendszer
 
-gerinces bélcsatorna tagozódása feladatokkal
-	Előbél: szájüreg ---> nyelőcső ---> gyomor (egyszerű: egyrétegű / összetett 4 üregű ---> kérődzők)
-	Középbél: vékonybél (itt fejeződik be az emésztés, és a vékonybél nagyfelületű falán zajlik a felszívódás)
-	Utóbél: végbélnyílás (emlősök) / kloáka (kétéltűek, hüllők, madarak) ---> itt távozik a bélsár és visszaszívódik a benne lévő víz!
+gerinces bélcsatorna tagozódása feladatokkal	benne
+	előbél: táplálék felvétele, előkészítése(előemésztés)
+	középbél: emésztés, tápanyag felszívása
+	utóbél: víz és ásványi anyagok felszívása, salakanyagok ürítése
 
 mivel lélegeznek az alábbi állatok:
 	rovarok			légcsőrendszer
@@ -42,21 +57,16 @@ mivel lélegeznek az alábbi állatok:
 	halak			kopoltyú
 	emlősök			tüdő
 
-vér felépítése (alakos elemek, vérplazma)
+vér felépítése (alakos elemek, vérplazma)	benne
 	alakos elemek:
-		vörösvérsejt 45%
+		vörösvértest 45%
 		fehérvérsejt
 		vérlemezke
 	vérplazma:
 		víz 90%
-		fehérjék
 		véralvadási faktorok
-		komplement anyagok
-		cukor
-		bilirubin
-		ásványi anyagok
 		hormonok
-		maradéknitrogén
+		tápanyagok
 
 kis vérkör, nagy vérkör összehasonlítása
 	nagy vérkör: bal kamra > sejtek > jobb pitvar
