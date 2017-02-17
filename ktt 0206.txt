@@ -2,7 +2,7 @@
 
 					Állatok szabályozó szervrendszerei
 I. Bevezetés:
-	1.
+	1. Az élőlények csak akkor maradnak életben, ha a külső környezet változásai ellenére a belső környezetük viszonylag állandó marad --> homeosztázis
 	2. 2 szabályozó szervrendszerük:
 		idegrendszer
 		hormonrendszer
