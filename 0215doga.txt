@@ -5,22 +5,22 @@
 	I.-IV. Fogalmak:
 		szövet:
 		álszövet:
-		táplálkozás
-		légzés
-		külső légzés
-		belső légzés
-		nyitott keringés
-		hormon
-		megtermékenyítés
+		táplálkozás:
+		légzés:
+		külső légzés:
+		belső légzés:
+		nyitott keringés:
+		hormon:
+		megtermékenyítés:
 		újszájúak: ide tartozik az összes gerinces állat
-		hemoglobin a vér piros színét adó festékanyag
-		kettős légzés
-		fehérvérsejt a szervezet védekezésében fontos
-		belső elválasztású mirigy
-		malphigi-csövek pókok, rovarok kiválasztószerve
+		hemoglobin: a vér piros színét adó festékanyag
+		kettős légzés:
+		fehérvérsejt: a szervezet védekezésében fontos
+		belső elválasztású mirigy:
+		malphigi-csövek: pókok, rovarok kiválasztószerve
 		idegszövet: neuronokból felépülő szövettípus
 		here: hím állatok ivarmirigye
-		húgyhólyag vizelettároló
+		húgyhólyag: vizelettároló
 		receptorsejt: ingerfelvevő sejtek neve
 
 	II.
@@ -41,27 +41,27 @@
 		hímivarsejt - petesejt
 		
 		mely szövettípus jellemző a gerincesekre: többrétegű hám
-		gerinctelen: egyrétegű
-		gyűrűsférgek: bőrizomtömlő
-		csalánozó: 
+			gerinctelen: egyrétegű
+			gyűrűsférgek: bőrizomtömlő
+			csalánozó: 
 		két nyílás három szakasz: gyűrűsférgek
 		egy nyílás két szakasz: laposférgek
 		légzsák
 		léghólyagocska
-		csőodegrendszer gerincesek
+		csőidegrendszer: gerincesek
 		diffúz idegrndszer csalánozók
 		
 		
 		összetett szem csak fényérzékelés HAMIS
 		hólyagszem 
-		fejlettállatok receptorai szétszórva H
-		fejlettállatok érzékszervek
+		fejlett állatok receptorai szétszórva H
+		fejlett állatok érzékszervek
 		hormonrenszer feladata a fejlődés szabályozása
 		hormonok testfolyadék
 		csalánozók diffúz
 		növényevők hosszú tápcsatorna
 		csőidegrendszer
-		állatewvő rövid tápcsatorna
+		állatevő rövid tápcsatorna
 		
 		
 		fajfenntartás minkettő
@@ -92,8 +92,9 @@
 		belső megtermékenyítés
 		külső megtermékenyítés
 		
-		embrionális fejlődés / zigóta
-		posztembrionális fejlődés / zigóta
+		embrionális fejlődés
+		posztembrionális fejlődés
+		zigóta
 		
 		sorolj fel 6 db állati sejtalkotót
 		
