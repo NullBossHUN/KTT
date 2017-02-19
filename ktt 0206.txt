@@ -6,7 +6,7 @@ I. Bevezetés:
 	2. 2 szabályozó szervrendszerük:
 		idegrendszer
 		hormonrendszer
-	neuroendokrin rendszer
+	=neuroendokrin rendszer
 II. Idegi szabályozás
 	1. Alapfogalmak:
 		1 idegrendszer: idegi szabályozás szervrenszere

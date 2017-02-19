@@ -7,11 +7,11 @@ I.-IV. Fogalmak:
 	álszövet: különböző felépítésű és működésű sejtek csoportosulása
 	táplálkozás: tápanyagok felvevése, sejtekhez juttatása
 	légzés: az állatok lebontó anyagcseréjéhez szükséges gázcsere (életjelenség)
-	külső légzés:
-	belső légzés:
-	nyitott keringés:
+	külső légzés: levegő és vér közötti gázcsere
+	belső légzés: sejtek és vér közötti gázcsere
+	nyitott keringés:Az erek folytonossága megszakad a testfolyadék a szervek közötti térbe jut
 	hormon:
-	megtermékenyítés:
+	megtermékenyítés: az ivarsejtek egyesülési folyamata
 	újszájúak: ide tartozik az összes gerinces állat
 	hemoglobin: a vér piros színét adó festékanyag + oxigént szállít
 	kettős légzés: madarak tüdejében belégzéskor és kilégzéskor is történik gázcsere (légzsákok miatt)
@@ -68,12 +68,12 @@ V.
 	fajfenntartás minkettő
 	vírusok egyik sem
 	ivarsejt ivaros
-	bimbószás ivartalan
+	bimbózás ivartalan
 	ivari kétalakúság ivaros
 	
 	
 	embrió fejlődését biztosítja egyik sem
-	ivaros szaporosás elengedhetetlen sejtjei
+	ivaros szaporodás elengedhetetlen sejtjei
 
 VI.
 	kötőszövetek típusai
