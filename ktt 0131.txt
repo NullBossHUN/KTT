@@ -1,8 +1,8 @@
 
 
-	II. Szaporítószerv(renszerek) felépítése
-		1. Szaporítószerv: töbssejtű állatokban az ivarsejtek termelését, kivezetését, a párosodást illetve az embrió fejlődését biztosító szervek
-		2. Hímivarsjtek
+	II. Szaporítószerv(rendszerek) felépítése
+		1. Szaporítószerv: többsejtű állatokban az ivarsejtek termelését, kivezetését, a párosodást illetve az embrió fejlődését biztosító szervek
+		2. Hímivarsejtek
 			a hím állatok ivarmirigyeiben >> a páros herékben termelődnek
 			elvezetésükre a páros ondóvezetékek szolgálnak
 			a belső megtermékenyítésű állatoknál párzószervek is kialakulnak
@@ -11,4 +11,4 @@
 			a nőstény állatok ivarmirigyeiben >> a páros petefészekben termelődnek
 			elveztésükről a páros petevezetékek gondoskodnak >> ez a megtermékenyítés helyszíne
 			anyaméh: a petevezetékek sajátos tágulata amely befogadja a fejlődő embriót
-			a nőstények negnagyobbsejttípusa + mozdulatlan
+			a nőstények legnagyobb sejttípusa + mozdulatlan
