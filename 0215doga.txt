@@ -9,7 +9,7 @@ I.-IV. Fogalmak:
 	légzés: az állatok lebontó anyagcseréjéhez szükséges gázcsere (életjelenség)
 	külső légzés: levegő és vér közötti gázcsere
 	belső légzés: sejtek és vér közötti gázcsere
-	nyitott keringés:Az erek folytonossága megszakad a testfolyadék a szervek közötti térbe jut
+	nyitott keringés: Az erek folytonossága megszakad a testfolyadék a szervek közötti térbe jut
 	hormon: hormonális szabályozás anyagai, amelyek a testfolyadékba kerülve fejtik ki a hatásukat
 	megtermékenyítés: az ivarsejtek egyesülési folyamata
 	újszájúak: ide tartozik az összes gerinces állat
@@ -54,7 +54,7 @@ V.
 	
 	
 	összetett szem csak fényérzékelés HAMIS
-	hólyagszem 
+	hólyagszem fejlett
 	fejlett állatok receptorai szétszórva H
 	fejlett állatok érzékszervek
 	hormonrenszer feladata a fejlődés szabályozása

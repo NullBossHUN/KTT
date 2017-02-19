@@ -3,7 +3,7 @@
 	
 	I. Bevezetés
 		1. Anyagszállítás: a sejtek anyagcserefolyamtainak elengedhetetlen feltétele,
-hogy az O2 és a tápanyagok eljussanak a sejtekhez ->> onnan pedig a co2 és a bomlástermékek a leadás helyére kerüljenek.
+hogy az O2 és a tápanyagok eljussanak a sejtekhez ->> onnan pedig a CO2 és a bomlástermékek a leadás helyére kerüljenek.
 		2. Egyszerű felépítésű állatoknál ->> NINCS önálló anyagszállítás.
 			- szivacsok: vándorsejtekkel
 			- csalánozók: űrbél (elágazó)
