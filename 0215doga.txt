@@ -5,8 +5,8 @@
 I.-IV. Fogalmak:
 	szövet: hasonló felépítésű és működésű sejtek csoportosulása
 	álszövet: különböző felépítésű és működésű sejtek csoportosulása
-	táplálkozás:
-	légzés:
+	táplálkozás: tápanyagok felvevése, sejtekhez juttatása
+	légzés: az állatok lebontó anyagcseréjéhez szükséges gázcsere (életjelenség)
 	külső légzés:
 	belső légzés:
 	nyitott keringés:
