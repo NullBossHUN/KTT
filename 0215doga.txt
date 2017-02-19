@@ -40,7 +40,8 @@
 		ivartalan - ivaros szaporodás
 		hímivarsejt - petesejt
 		
-		mely szövettípus jellemző a gerincesekre: többrétegű hám
+		mely szövettípus jellemző a
+			gerincesekre: többrétegű hám
 			gerinctelen: egyrétegű
 			gyűrűsférgek: bőrizomtömlő
 			csalánozó: 
