@@ -1,5 +1,4 @@
-táp 
-													Állatok táplálkozása
+﻿													Állatok táplálkozása
 I. Bevezetés:
 	1. Heterotróf táplálkozásúak
 	2. Táplálék fontossága:
