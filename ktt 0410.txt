@@ -17,7 +17,7 @@ I. Helymeghatározás a földgömön
 		a térkép jelrendszere:
 			domborzati formák:
 				szintvonalas domborzatábrázolás: azonos magassági pontokat összekötő szabálytalan önmagába visszatérő görbe
-				szintfokozatos domborzatábrázolás: a magasság emelkedését és a tengermélység növekedését egyre sötétebb árnyalatú színekkel pls
+				szintfokozatos domborzatábrázolás: a magasság emelkedését és a tengermélység növekedését egyre sötétebb árnyalatú színekkel jelzi
 				domborzatárnyékolás: a domborzatot fény és árnyékolás hatásokkal emelik ki
 			síkrajz: a földfelszín természetes és mesterséges elemeit ábrázolja
 				növényzet
