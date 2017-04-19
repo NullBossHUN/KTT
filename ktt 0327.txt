@@ -1,0 +1,43 @@
+
+						Csillagászat
+
+I. A csillagászat rövid története:
+	1. Ókori csillagászat:
+	asztrológia: csillagjóslás áltudománya
+		a napot istenként tisztelték
+		a csillagok állásából kiolvasható a jövő
+	naptárkészítés: csillagászati ismereteket igényel
+	mezopotámia:
+		nap	hold járásának ismerete
+		csillagképeket neveztek el
+		7 mozgó égitestet ismertek
+			nap, hold, merkúr, vénusz, mars, jupiter, szaturnusz
+				a hét napjait ezekről nevezték el
+	kína : i.e. 3. évezred
+		nap	hold
+			fogyatkozás időpontjának ismerete
+	egyiptom
+		naptárkészítés mesterei
+	görögök
+		ókori csillagászat csúcsa
+		ptolemaiosz: geocentrikus világkép: középkor végéig elfogadott
+	2. Középkori csillagászat (asztronómia)
+	nikolaus kopernikusz(1473	1543)
+		heliocentrikus világkép
+			naprendszer központja a nap, körülötte keringenek a bolygók; a naprendszer a tejútrendszer(galaxis) része
+	giordano bruno(1548	1600)
+		úgy vélte hogy a nap nem a világmindenség központja, csak az egyik csillag
+	galileo galilei(1564	1642)
+		távcsövet használt
+		felfedezte a jupiter 4 holdját
+		napfoltok, nap forgásának tanulmányozása
+	kepler(1571	1630)
+		bolygók mozgástörvénye
+		keringés alakja ellipszis
+	isaac newton(1643	1727)
+		tömegvonzás törvényei
+		
+	20-21. századi csillagászat:
+		színképjelenségek miatt fejlődött a csillagászat
+		Hubble-űrtávcső
+		műholdak fellövése

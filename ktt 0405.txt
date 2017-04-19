@@ -1,0 +1,42 @@
+			A Föld mint égitest
+
+I. A Föld alakja
+	1. Az ókorban -> gömb alakú
+		mérések: sarki átmérő kisebb
+		következtetés: a tengely körüli forgás következtében a bolygónk a sarkok közelében lapult
+			geoid: földalak
+	2. Földünk geoid alakjának következményei:
+		éghajlati övek, övezetesség kialakulása
+			Földünk felszínét a napsugarak változó szögben érik, ezért különböző a felmelegedés mértéke
+			egyenlítőnél legmelegebb
+			sarkok felé csökken a hőmérséklet
+				ez az oka a légtömegek mozgásának, a tengeri áramlatoknak
+					befolyásolja az éghajlatot
+		látóhatár - horizont
+	
+	felszíntől magasság			látóhatár sugara
+	1m			3,57km
+	10			11,3
+	100			35,7
+	1000		113
+	
+	3. A Föld gömbhéjakra(=geoszférákra) tagolódik
+		atmoszféra
+		hidroszféra
+		litoszféra
+		
+		folyamatos kölcsönhatás egymással
+		(=bioszféra)
+		
+		kialakulás oka:
+			tengely körüli forgás
+			gravitáció
+			nap körüli keringés
+		fajsúlyuk szerint rendeződnek gömbhéjakba
+II. A Föld mozgása
+	1. Föld tengely körüli forgása:
+		Ny -> K a tengelye körül forog
+			ez az oka a nappalok és az éjszakák váltakozásának
+				szabályozza a napi ritmusunkat
+				időjárást alakítja
+				eltérítheti az áramlatok és a szél irányát

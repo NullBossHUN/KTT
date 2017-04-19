@@ -1,0 +1,51 @@
+
+						Tájékozódás a földi térben és időben
+
+I. Helymeghatározás a földgömön
+	1. A földrajzi környezet ábrázolása:
+		látképek
+			földfelszín oldalnézeti képe
+		légfényképek / űrfelvételek
+			fölülnézet
+		makett
+			földfelszín 3D-s arányosan kicsinyített modellje
+	
+	2. Térképek: földrajzi környezetünket leggyakrabban ebben ábrázoljuk
+		földfelszín egyezményes jelekkel történő arányosan kicsinyített síkbeli ábrázolása
+		a térkép mérertaránya: a kicsinyítés mértéke
+			pl: 1:100000
+		a térkép jelrendszere:
+			domborzati formák:
+				szintvonalas domborzatábrázolás: azonos magassági pontokat összekötő szabálytalan önmagába visszatérő görbe
+				szintfokozatos domborzatábrázolás: a magasság emelkedését és a tengermélység növekedését egyre sötétebb árnyalatú színekkel pls
+				domborzatárnyékolás: a domborzatot fény és árnyékolás hatásokkal emelik ki
+			síkrajz: a földfelszín természetes és mesterséges elemeit ábrázolja
+				növényzet
+				települések
+				vízrajz
+				vezetékek
+				utak
+				határok
+			névrajz: neveket, számokat, jelmagyarázatokat tartalmaz
+
+II. Térképtípusok:
+	1. Méretarány szerint:
+		nagy méretarányú térkép:
+			1:500 - 1:10000
+			típusai:
+				használják földhivatalok, katonák, mérnökök, kutatók
+		közepes mérertarányú térkép:
+			1:10000 - 1:200000
+			megyetérképek, turistatérképek
+		kis mérertarányú térkép:
+			1:200000 <
+			ország, kontinenstérkép
+	2. Tartalmuk szerint:
+		domborzati / topográfiai térkép
+			domborzat, tereptárgy
+			közlekedési térkép
+		földrajzi térkép
+			kontinesek, országok földrajzi fekvéséről, vízrajzáról, közlekedési viszonyairól
+		szaktérképek
+			bizonyos természeti, gazdasági, társadalmi jelenségek területi elhelyezkedését, azok mennyiségi-minőségi jellemzőit mutatja be
+			földtani térképek, szerkezeti térképek, éghajlati térképek, talajtérképek, vízrajzi térképek, növényföldrajzi térképek, népsűrűségi térképek, mezőgazdasági térképek, közlekedési térképek

@@ -1,0 +1,38 @@
+
+	2. Napi időszámítás:
+		nap részei: órák, percek, másodpercek
+			az idő mérése a Föld tengely körüli forgására, és a nap látszólagos mozgására támaszkodik
+		1 nap: az az idő ami a Nap két egymást követő delelése között eltelik
+			0 órától számítjuk
+			19. századtól -> 1 nap 24 óra
+	3. Évi időszámítás:
+		a Föld Nap körüli keringésén alapul
+		a Föld Ny->K irányba kering a nap körül
+		1 év= 365.25 nap
+			365d 5h 48m 46s
+			szökőév: 366 nap
+	4.Az évszakok váltakozása:
+		Föld Nap körüli keringésén alapul
+		a Föld forgástengelye a keringés síkjára hajlik
+		a Föld forgástengelyének iránya a keringés során nem változik, mindig a Sarkcsillagra mutat
+		
+		Napéjegyenlőségek / napfordulók:
+			márc. 21.
+				a nappal és az éjszaka egyenlő hosszúságú
+				Északi félgömb -> tavasz
+				Déli félgömb -> ősz		kezdete
+			jún. 22. 
+				É. nyár kezdete
+				D. tél kezdete
+				a Nap a ráktérítő felett jár delelése a térítőn 90°
+				sugarai merőlegesen esnek a Föld felszínére
+				az északi sarkvidéken 24 órás nappal nincs éjszaka
+					sarkponton 6 hónapig viágosság
+				a déli sarkvidéken 24 órás sötétség
+					márc. --> szept. sötétség
+			szept.  23.
+				Északi félgömb -> ősz
+				Déli félgömb -> tavasz	kezdete
+			dec. 22.
+				É. téli napforduló
+				D. nyári napforduló
