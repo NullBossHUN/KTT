@@ -1,0 +1,34 @@
+
+								A Föld belső szerkezete
+
+
+I. Általános tudnivalók
+	1. A Föld belseje felé haladva folyamatosan nő a T és p
+		a Föld szilárd burka alatt olvadt, képlékeny anyag rejtőzik
+	2. A Föld belseje nem egynemű (homogén) hanem különböző rétegekre tagolódik
+		gömbhéjak különböző anyagösszetételűek, melyek a Föld kialakulásakor a forgás és a lehűlés közben jöttek létre
+
+II. Mi rejtőzik a Föld belsejében?
+	belső mag, külső mag, földköpeny, földkéreg
+	1. Földkéreg:
+		különböző összetételű és vastagságú az óceán és a szárazföldi részek alatt
+		óceáni kéreg:
+			kőzet: bazalt
+			vastagság: 7-11km
+		szárazföldi kéreg:
+			felépítése:
+				bazaltos réteg -> a szárazföldi kéreg legalja
+				gránitos réteg -> fölötte van
+			vastagsága: 35-40km, hegységek alatt 70-90km
+	2. Földköpeny:
+		2900km mélységig húzódhat
+		lefelé haladva nő a sűrűség, fémtartalom
+		halmazállapot szerint kettős rétegű:
+			szilárd felső köpeny: 30-50km vastagságú, földkéreggel együtt alkotja a kőzetburkot(litoszférát)
+			lágyköpeny: alsó réteg, nő a p, T; asztenoszféra
+	3. Külső mag:
+		vastagsága: 1800km
+		folyékony halmazállapotú	Fe, Ni
+	4. Belső mag:
+		határa:4700-5100km
+		anyaga Fe, Ni szilárd halmazállapot
